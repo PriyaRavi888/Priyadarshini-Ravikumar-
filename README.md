@@ -1,6 +1,6 @@
 # Hi, I’m Priyadarshini Ravikumar 👋
 
-**2nd Year CSE @ Presidency University**  
+**CSE Student @ Presidency University**  
 Aspiring Cloud + AI Solution Architect | MLOps & GenAI explorer
 
 🔭 Currently: Building small GenAI and MLOps experiments to learn real-world behavior.  
